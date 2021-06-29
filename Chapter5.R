@@ -87,11 +87,11 @@ word1 <- words[[1]]
 is.vector(word1)
 
 unique(word1)
-unique(tolower(word1))
+unique(tolower(word1))   
 unique(toupper(word1))
 
 word2 <- strsplit(pangram, "T")
-word2
+word2 
 str(word2)
 # Concatenating text
 
