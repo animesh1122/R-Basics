@@ -65,7 +65,7 @@ new_mtr
 new_mtr + 2:4
 rowSums(new_mtr)
 
-rowsum.data.frame(data.frame(new_mtr))
+rowsum.data.frame(data.frame(new_mtr)) 
 
 t(new_mtr)
 t(t(new_mtr))
