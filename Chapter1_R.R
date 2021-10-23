@@ -8,7 +8,7 @@
 x <- 1:5
 y <- 5
 y
-print (y)
+print (y) 
 
 #add numeric constant 2 to vector x
 x+2
