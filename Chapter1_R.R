@@ -13,7 +13,7 @@ print (y)
 #add numeric constant 2 to vector x
 x+2
 x + y
-
+ 
 #add numeric vector to vector x
 x+ 10:14
 
