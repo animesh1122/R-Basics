@@ -6,7 +6,7 @@
 
 # Vactorization 
 
-vector1 <- c(1,2,3,4)
+vector1 <- c(1,2,3,4) 
 
 basket.ball <- c(12,14,54)
 #Get Sum
