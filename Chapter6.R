@@ -9,7 +9,7 @@ date()
 #Defaut is YYYY-MM-DD Format
 xd <- as.Date("2020-01-25")
 
-xd+1
+xd+1 
 str(xd)
 weekdays(xd)
 
