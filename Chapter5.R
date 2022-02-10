@@ -5,7 +5,7 @@
 #------------------------------
 
 #Getting Started with Reading
-# and Writing
+# and Writing 
 
 #Assigning a value to a character vector
 x <- "Hello world!"
