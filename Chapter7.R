@@ -6,7 +6,7 @@
 #------------------------------
 
 # Working in More Dimensions
-# New Dimentions
+# New Dimentions 
 # Arrays have
 # two very important features:
   # They contain only a single type of value.
