@@ -53,7 +53,7 @@ print(x=11/7)
 paste(firstname, lastname, sep = "*")
 
 #savehistory(file="Chapter3.Rhistory")
-#loadhistory("Chapter3.Rhistory")
+#loadhistory("Chapter3.Rhistory") 
 
 .kamlesh <- c(1)
 kamlesh1_. <- c(1)
