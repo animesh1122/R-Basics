@@ -21,7 +21,7 @@ x+ 10:14
 x * 10:14
 
 #Character String
-h<-"Hello" 
+h<-"Hello"  
 y1<-readline("What is your name? ")
 
 print(paste(h, y1))
