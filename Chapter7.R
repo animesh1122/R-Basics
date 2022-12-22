@@ -31,7 +31,7 @@ attributes(mx)
 
 # Combining vectors into a matrix
 baskets.of.Granny <- c(12, 4, 5, 6, 9, 3)
-baskets.of.Geraldine <- c(5, 4, 2, 4, 12, 9)
+baskets.of.Geraldine <- c(5, 4, 2, 4, 12, 9) 
 baskets.team <- rbind(baskets.of.Granny, baskets.of.Geraldine)
 str(baskets.team)
 
