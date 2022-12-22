@@ -1,8 +1,8 @@
-#------------------------------
+#-------------------------------
 #Name:  Animesh Patel
 #Date:  Feb-25, 2018 
 #Project: Chapter 1 
-#------------------------------
+#-------------------------------
 
 #Learning to create vecors and its oprtations
 x <- 1:5
