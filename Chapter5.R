@@ -17,7 +17,7 @@ nchar(x)
 # Creating a character vector with more
 # than one element
 
-y <- c("Hello", "World", "I")
+y <- c("Hello", "World", "I") 
 length(y)
 nchar(y) #Give lenght of each text/elements 
 
