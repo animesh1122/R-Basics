@@ -17,7 +17,7 @@ xd+0:6
 weekdays(xd+0:5)
 startdt <- as.Date("2020-01-01")
 seq(startdt, startdt+100,10)
-month(seq(startdt, startdt+100,10))
+month(seq(startdt, startdt+100,10)) 
 
 Sys.localeconv()
 
