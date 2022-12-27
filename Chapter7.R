@@ -11,7 +11,7 @@
 # two very important features:
   # They contain only a single type of value.
   # They have dimensions.
-#An array with two dimensions is a matrix.
+#An array with two dimensions is a matrix. 
 # Anything with more than two dimensions is simply called an array.
 
 
